@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @bprk007 | Bhavesh Pareek
-- 👀 I’m interested in UX Designing, Android and Web Development
-- 🌱 I’m currently learning C language and Wireframing
+
   
 
 <!---
